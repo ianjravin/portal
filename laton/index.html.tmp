@@ -1,0 +1,1150 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="icon" href="images/logo-icon.png" type="image/x-icon" />
+<title>Laton | Local Government HTML Template</title>
+<!-- StyleSheets Start -->
+<link href="css/custom.css" rel="stylesheet">
+<link href="css/color.css" rel="stylesheet">
+<link href="css/responsive.css" rel="stylesheet">
+<link href="css/bootstrap.min.css" rel="stylesheet">
+<link href="css/owl.carousel.min.css" rel="stylesheet">
+<link href="css/font-awesome.min.css" rel="stylesheet">
+<link href="css/prettyPhoto.css" rel="stylesheet">
+<link href="css/flat-weather.css" rel="stylesheet">
+
+<!-- StyleSheets End -->
+
+<!--[if lt IE 9]>
+      <script src="https://oss.maxcdn.com/html5shiv/3.7.3/html5shiv.min.js"></script>
+      <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+    <![endif]-->
+</head>
+<body>
+<div class="wrapper"> 
+  <!--Header Start-->
+  <header id="header" class="header">
+    <div class="side-icon"><a href="#"> <i class="fa fa-bars"></i></a> </div>
+    <div class="logo"><a href="index.html"> <span class="logo-icon"><img src="images/logo-icon.png" alt=""></span> <span class="logo-txt"> <img src="images/logo-txt.png" alt=""> </span> </a> </div>
+    
+    <!--Site Nav Start-->
+    <div class="site-nav">
+      <nav class="navbar">
+        <div class="navbar-header">
+          <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1" aria-expanded="false"> <i class="fa fa-bars"></i> </button>
+        </div>
+        <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+          <ul class="nav">
+            <li><a href="#"> Home </a>
+              <ul class="sub-menu">
+                <li><a href="index.html">Home One</a></li>
+                <li><a href="home-two.html">Home Two</a></li>
+                <li><a href="location-map.html">Home Three</a></li>
+              </ul>
+            </li>
+            <li><a href="locations.html"> Explore Laton</a></li>
+            <li> <a href="#">Causes</a>
+              <ul class="sub-menu">
+                <li><a href="causes-grid.html">Causes</a></li>
+                <li><a href="causes-grid-two.html">Causes Grid</a></li>
+                <li><a href="causes-details.html">Causes Details</a></li>
+              </ul>
+            </li>
+            <li> <a href="#">Departments</a>
+              <ul class="sub-menu">
+                <li><a href="departments.html">Departments</a></li>
+                <li><a href="department-details.html">Department Details</a></li>
+              </ul>
+            </li>
+            <li> <a href="#">Events</a>
+              <ul class="sub-menu">
+                <li><a href="events.html">Events</a></li>
+                <li><a href="event-full.html">Event Full</a></li>
+                <li><a href="event-list.html">Events List</a></li>
+                <li><a href="event-grid.html">Event Grid</a></li>
+                <li><a href="event-details.html">Event Details</a></li>
+              </ul>
+            </li>
+            <li> <a href="#">Pages</a>
+              <ul class="sub-menu">
+                <li><a href="#">News</a>
+                  <ul class="sub-menu">
+                    <li><a href="news-coverage.html">News Coverage</a></li>
+                    <li><a href="press-releases.html">Press Releases</a></li>
+                    <li><a href="today-newspaper.html">Today NewsPaper</a></li>
+                    <li><a href="latonthebeauty.html">City Updates</a></li>
+                  </ul>
+                </li>
+                <li><a href="#">Blog</a>
+                  <ul class="sub-menu">
+                    <li><a href="blog.html">Blog</a></li>
+                    <li><a href="blog-full.html">Blog Full</a></li>
+                    <li><a href="blog-grid.html">Blog Grid</a></li>
+                    <li><a href="blog-list.html">Blog List</a></li>
+                    <li><a href="blog-sidebar.html">Blog Sidebar</a></li>
+                    <li><a href="blog-details-two.html">Blog Details</a></li>
+                    <li><a href="blog-details.html">Blog Details Tow</a></li>
+                  </ul>
+                </li>
+                <li><a href="#">Shop</a>
+                  <ul class="sub-menu">
+                    <li><a href="shop.html">Shop</a></li>
+                    <li><a href="product-detail.html">Shop Details</a></li>
+                  </ul>
+                </li>
+                <li><a href="#">Team</a>
+                  <ul class="sub-menu">
+                    <li><a href="team.html">Team</a></li>
+                    <li><a href="officials.html">Team Details</a></li>
+                  </ul>
+                </li>
+                <li><a href="#">City</a>
+                  <ul class="sub-menu">
+                    <li><a href="city-forum.html">City Forum</a></li>
+                    <li><a href="sports.html">City Sports</a></li>
+                    <li><a href="locations.html">City Location</a></li>
+                    <li><a href="location-map.html">City Map</a></li>
+                    <li><a href="latonthebeauty.html">Laton The Beauty</a></li>
+                    <li><a href="location-details.html">Details</a></li>
+                  </ul>
+                </li>
+                <li><a href="#">Jobs</a>
+                  <ul class="sub-menu">
+                    <li><a href="jobs.html">Jobs</a></li>
+                    <li><a href="job-details.html">Job Details</a></li>
+                  </ul>
+                </li>
+                <li><a href="#">Gallery</a>
+                  <ul class="sub-menu">
+                    <li><a href="gallery-full.html">Gallery Full</a></li>
+                    <li><a href="gallery-grid.html">Gallery Grid</a></li>
+                    <li><a href="gallery.html">Gallery Grid Full</a></li>
+                    <li><a href="gallery-filterable.html">Gallery Filterable</a></li>
+                  </ul>
+                </li>
+              </ul>
+            </li>
+            <li><a href="#">Contact</a>
+              <ul class="sub-menu">
+                <li><a href="contact.html">Contact</a></li>
+                <li><a href="contact-two.html">Contact Two</a></li>
+                <li><a href="contact-three.html">Contact Three</a></li>
+              </ul>
+            </li>
+          </ul>
+        </div>
+      </nav>
+    </div>
+    
+    <!--Site Nav End-->
+    
+    <div class="header-right">
+      <ul>
+        <li>
+          <div class="h-weather">
+            <div class="dropdown"> <a href="#" data-toggle="dropdown" aria-haspopup="true" aria-expanded="true" ><img src="images/cloud-icon.png" alt=""> <strong>15°</strong>C / <strong>59°</strong>F</a>
+              <div class="dropdown-menu">
+                <div id="weather"></div>
+              </div>
+            </div>
+          </div>
+        </li>
+        <li><a href="#"><img src="images/bus-icon.png" alt=""></a></li>
+        <li><a href="location-map.html"><img src="images/map-icon.png" alt=""></a></li>
+        <li>
+          <div class="search-icon"> <a role="button" data-toggle="collapse" href="#collapseExample" aria-expanded="false" aria-controls="collapseExample"> <i class="fa fa-search"></i> </a> </div>
+        </li>
+      </ul>
+    </div>
+    <div class="collapse" id="collapseExample">
+      <div class="search-holder">
+        <form method="get" >
+          <input type="text" placeholder="Search Here" class="search-input">
+          <button class="search-btn"><i class="fa fa-search" aria-hidden="true"></i></button>
+        </form>
+      </div>
+    </div>
+    
+    <!--Alerts Start-->
+    
+    <div class="alerts">
+      <div id="alert-btn" class="alert-btn"><span class="a-count">2</span> <i class="fa fa-bell-o" aria-hidden="true"></i></div>
+      <ul class="alerts-list">
+        <li>
+          <p>Some community centers are open. The Copley Square library is open from 1 - 5 p.m. All other municipal buildings and libraries are closed.</p>
+          <span>Education Department</span> </li>
+        <li>
+          <p>Some community centers are open. The Copley Square library is open from 1 - 5 p.m. All other municipal buildings and libraries are closed.</p>
+          <span>Education Department</span> </li>
+      </ul>
+    </div>
+    <!--Alerts End--> 
+    
+  </header>
+  <!--Header End--> 
+  
+  <!--Banner Start-->
+  <div class="main-banner">
+    <div id="sync1" class="owl-carousel">
+      <div class="item">
+        <div class="slide-caption"> <strong>Public schools in session</strong>
+          <h1> Luxurious lounges and<br>
+            hipster haunts: Venice's <br>
+            10 best cocktail bars </h1>
+        </div>
+        <img src="images/slide1.jpg" alt=""></div>
+      <div class="item">
+        <div class="slide-caption"> <strong>Public schools in session</strong>
+          <h1> Luxurious lounges and<br>
+            hipster haunts: Venice's <br>
+            10 best cocktail bars </h1>
+        </div>
+        <img src="images/slide2.jpg" alt=""></div>
+      <div class="item">
+        <div class="slide-caption"> <strong>Public schools in session</strong>
+          <h1> Luxurious lounges and<br>
+            hipster haunts: Venice's <br>
+            10 best cocktail bars </h1>
+        </div>
+        <img src="images/slide3.jpg" alt=""></div>
+      <div class="item">
+        <div class="slide-caption"> <strong>Public schools in session</strong>
+          <h1> Luxurious lounges and<br>
+            hipster haunts: Venice's <br>
+            10 best cocktail bars </h1>
+        </div>
+        <img src="images/slide4.jpg" alt=""></div>
+    </div>
+    <div id="sync2" class="owl-carousel">
+      <div class="item">Some community centers are open. The Copley Square library is open.</div>
+      <div class="item">Some community centers are open. The Copley Square library is open.</div>
+      <div class="item">Some community centers are open. The Copley Square library is open.</div>
+      <div class="item">Some community centers are open. The Copley Square library is open.</div>
+    </div>
+  </div>
+  <!--Banner End--> 
+  
+  <!--Home Content Start-->
+  <div class="home-content"> 
+    
+    <!--Home Welcome Start-->
+    <div class="home-welcome">
+      <div class="container">
+        <div class="row">
+          <div class="col-md-4">
+            <h3><span>Welcome to</span> LatonCity.GOV</h3>
+            <ul class="wel-links">
+              <li><a href="#">Resturants</a></li>
+              <li><a href="#">Events</a></li>
+              <li><a href="#">Nightlife</a></li>
+            </ul>
+          </div>
+          <div class="col-md-5">
+            <p> Some community centers are open. The Copley Square library is open from 1 - 5 p.m. All other municipal buildings and libraries are closed. </p>
+            <strong class="may-name">James Sendroen</strong> <i>City Mayor</i> </div>
+          <div class="col-md-3"><img src="images/mayer.png" alt=""></div>
+        </div>
+      </div>
+    </div>
+    <!--Home Welcome End--> 
+    
+    <!--Home Services Start-->
+    <div class="h-services-one">
+      <div class="container">
+        <div class="row">
+          <div class="col-md-3 col-sm-6">
+            <div class="h-ser-box">
+              <div class="icon-box"><img src="images/hsicon1.png" alt=""></div>
+              <h6> Culture and History</h6>
+              <p>Some community centers are open. The Copley Square library is open.</p>
+              <strong class="cd">City Departments</strong> </div>
+          </div>
+          <div class="col-md-3 col-sm-6">
+            <div class="h-ser-box red">
+              <div class="icon-box"><img src="images/hsicon2.png" alt=""></div>
+              <h6> Education System</h6>
+              <p>Some community centers are open. The Copley Square library is open.</p>
+              <strong class="cd">Education Centers</strong> </div>
+          </div>
+          <div class="col-md-3 col-sm-6">
+            <div class="h-ser-box">
+              <div class="icon-box"><img src="images/hsicon3.png" alt=""></div>
+              <h6> Neighbourhood.</h6>
+              <p>Some community centers are open. The Copley Square library is open.</p>
+              <strong class="cd">See All Neighbours</strong> </div>
+          </div>
+          <div class="col-md-3 col-sm-6">
+            <div class="h-ser-box red">
+              <div class="icon-box"><img src="images/hsicon4.png" alt=""></div>
+              <h6> LATON 2020 Vision</h6>
+              <p>Some community centers are open. The Copley Square library is open.</p>
+              <strong class="cd">Check Scedule</strong> </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <!--Home Services End--> 
+    
+    <!--Newsletter Start-->
+    <div class="newsletter-wrap">
+      <div class="container">
+        <div class="row">
+          <div class="nl-wrap">
+            <div class="col-md-6">
+              <h2>STAY CONNECTED</h2>
+              <p>Sign up for email updates from the City of Boston, including information on big events and upcoming traffic and parking restrictions.</p>
+            </div>
+            <div class="col-md-6">
+              <ul class="row">
+                <li class="col-md-12  mb-15">
+                  <input type="text" class="form-control" placeholder="Enter Your Name">
+                </li>
+                <li class="col-md-7 col-sm-6">
+                  <input type="text" class="form-control" placeholder="Enter Your Email Address">
+                </li>
+                <li class="col-md-5 col-sm-6">
+                  <input type="submit" value="Stay Informend" class="submit">
+                </li>
+              </ul>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <!--Newsletter End--> 
+    
+    <!--city common resources Start-->
+    <div class="city-common-resources">
+      <div class="container">
+        <div class="row">
+          <div class="col-md-3">
+            <h2>Laton<br>
+              City Common Resources</h2>
+            <ul class="nav" role="tablist">
+              <li role="presentation" class="active"><a href="#cr1" aria-controls="cr1" role="tab" data-toggle="tab">Local Citizens</a></li>
+              <li role="presentation"><a href="#cr2" aria-controls="cr2" role="tab" data-toggle="tab">Tourists</a></li>
+              <li role="presentation"><a href="#cr3" aria-controls="cr3" role="tab" data-toggle="tab">Programs & Initiatives</a></li>
+            </ul>
+            <div class="dpt-phone">
+              <h4>Police Department</h4>
+              <p><i class="fa fa-phone" aria-hidden="true"></i> 0099 876 987</p>
+            </div>
+          </div>
+          <div class="col-md-9">
+            <div class="tab-content">
+              <div role="tabpanel" class="tab-pane active" id="cr1">
+                <div class="row"> 
+                  <!-- LCCR Box Start -->
+                  <div class="col-md-4 col-sm-4">
+                    <div class="lccr-box">
+                      <div class="icon-img"> <i class="fa fa-home"></i> </div>
+                      <h6>Search Property</h6>
+                      <p>Some community centers are open. The Copley Square</p>
+                    </div>
+                  </div>
+                  <!-- LCCR Box End --> 
+                  
+                  <!-- LCCR Box Start -->
+                  <div class="col-md-4 col-sm-4">
+                    <div class="lccr-box">
+                      <div class="icon-img"> <i class="fa fa-briefcase"></i> </div>
+                      <h6>Search a Job</h6>
+                      <p>Some community centers are open. The Copley Square</p>
+                    </div>
+                  </div>
+                  <!-- LCCR Box End --> 
+                  
+                  <!-- LCCR Box Start -->
+                  <div class="col-md-4 col-sm-4">
+                    <div class="lccr-box">
+                      <div class="icon-img"> <i class="fa fa-shopping-cart"></i> </div>
+                      <h6>Price Rates</h6>
+                      <p>Some community centers are open. The Copley Square</p>
+                    </div>
+                  </div>
+                  <!-- LCCR Box End --> 
+                  
+                  <!-- LCCR Box Start -->
+                  <div class="col-md-4 col-sm-4">
+                    <div class="lccr-box">
+                      <div class="icon-img"> <i class="fa fa-bitbucket"></i> </div>
+                      <h6>Street Cleaning</h6>
+                      <p>Some community centers are open. The Copley Square</p>
+                    </div>
+                  </div>
+                  <!-- LCCR Box End --> 
+                  
+                  <!-- LCCR Box Start -->
+                  <div class="col-md-4 col-sm-4">
+                    <div class="lccr-box">
+                      <div class="icon-img"><i class="fa fa-exclamation-triangle"></i></div>
+                      <h6>Search Property</h6>
+                      <p>Some community centers are open. The Copley Square</p>
+                    </div>
+                  </div>
+                  <!-- LCCR Box End --> 
+                  
+                  <!-- LCCR Box Start -->
+                  <div class="col-md-4 col-sm-4">
+                    <div class="lccr-box">
+                      <div class="icon-img"> <i class="fa fa-phone"></i> </div>
+                      <h6>Safety Warnings</h6>
+                      <p>Some community centers are open. The Copley Square</p>
+                    </div>
+                  </div>
+                  <!-- LCCR Box End --> 
+                  
+                </div>
+              </div>
+              <div role="tabpanel" class="tab-pane" id="cr2">
+                <div class="row"> 
+                 
+                  
+                  <!-- LCCR Box Start -->
+                  <div class="col-md-4 col-sm-4">
+                    <div class="lccr-box">
+                      <div class="icon-img"> <i class="fa fa-bitbucket"></i> </div>
+                      <h6>Street Cleaning</h6>
+                      <p>Some community centers are open. The Copley Square</p>
+                    </div>
+                  </div>
+                  <!-- LCCR Box End --> 
+                  
+                  <!-- LCCR Box Start -->
+                  <div class="col-md-4 col-sm-4">
+                    <div class="lccr-box">
+                      <div class="icon-img"><i class="fa fa-exclamation-triangle"></i></div>
+                      <h6>Search Property</h6>
+                      <p>Some community centers are open. The Copley Square</p>
+                    </div>
+                  </div>
+                  <!-- LCCR Box End --> 
+                  
+                  <!-- LCCR Box Start -->
+                  <div class="col-md-4 col-sm-4">
+                    <div class="lccr-box">
+                      <div class="icon-img"> <i class="fa fa-phone"></i> </div>
+                      <h6>Safety Warnings</h6>
+                      <p>Some community centers are open. The Copley Square</p>
+                    </div>
+                  </div>
+                  <!-- LCCR Box End --> 
+                  
+                  
+                   <!-- LCCR Box Start -->
+                  <div class="col-md-4 col-sm-4">
+                    <div class="lccr-box">
+                      <div class="icon-img"> <i class="fa fa-home"></i> </div>
+                      <h6>Search Property</h6>
+                      <p>Some community centers are open. The Copley Square</p>
+                    </div>
+                  </div>
+                  <!-- LCCR Box End --> 
+                  
+                  <!-- LCCR Box Start -->
+                  <div class="col-md-4 col-sm-4">
+                    <div class="lccr-box">
+                      <div class="icon-img"> <i class="fa fa-briefcase"></i> </div>
+                      <h6>Search a Job</h6>
+                      <p>Some community centers are open. The Copley Square</p>
+                    </div>
+                  </div>
+                  <!-- LCCR Box End --> 
+                  
+                  <!-- LCCR Box Start -->
+                  <div class="col-md-4 col-sm-4">
+                    <div class="lccr-box">
+                      <div class="icon-img"> <i class="fa fa-shopping-cart"></i> </div>
+                      <h6>Price Rates</h6>
+                      <p>Some community centers are open. The Copley Square</p>
+                    </div>
+                  </div>
+                  <!-- LCCR Box End --> 
+                  
+                </div>
+              </div>
+              <div role="tabpanel" class="tab-pane" id="cr3">
+                <div class="row"> 
+                  <!-- LCCR Box Start -->
+                  <div class="col-md-4 col-sm-4">
+                    <div class="lccr-box">
+                      <div class="icon-img"> <i class="fa fa-home"></i> </div>
+                      <h6>Search Property</h6>
+                      <p>Some community centers are open. The Copley Square</p>
+                    </div>
+                  </div>
+                  <!-- LCCR Box End --> 
+                  
+                  <!-- LCCR Box Start -->
+                  <div class="col-md-4 col-sm-4">
+                    <div class="lccr-box">
+                      <div class="icon-img"> <i class="fa fa-briefcase"></i> </div>
+                      <h6>Search a Job</h6>
+                      <p>Some community centers are open. The Copley Square</p>
+                    </div>
+                  </div>
+                  <!-- LCCR Box End --> 
+                  
+                  <!-- LCCR Box Start -->
+                  <div class="col-md-4 col-sm-4">
+                    <div class="lccr-box">
+                      <div class="icon-img"> <i class="fa fa-shopping-cart"></i> </div>
+                      <h6>Price Rates</h6>
+                      <p>Some community centers are open. The Copley Square</p>
+                    </div>
+                  </div>
+                  <!-- LCCR Box End --> 
+                  
+                  <!-- LCCR Box Start -->
+                  <div class="col-md-4 col-sm-4">
+                    <div class="lccr-box">
+                      <div class="icon-img"> <i class="fa fa-bitbucket"></i> </div>
+                      <h6>Street Cleaning</h6>
+                      <p>Some community centers are open. The Copley Square</p>
+                    </div>
+                  </div>
+                  <!-- LCCR Box End --> 
+                  
+                  <!-- LCCR Box Start -->
+                  <div class="col-md-4 col-sm-4">
+                    <div class="lccr-box">
+                      <div class="icon-img"><i class="fa fa-exclamation-triangle"></i></div>
+                      <h6>Search Property</h6>
+                      <p>Some community centers are open. The Copley Square</p>
+                    </div>
+                  </div>
+                  <!-- LCCR Box End --> 
+                  
+                  <!-- LCCR Box Start -->
+                  <div class="col-md-4 col-sm-4">
+                    <div class="lccr-box">
+                      <div class="icon-img"> <i class="fa fa-phone"></i> </div>
+                      <h6>Safety Warnings</h6>
+                      <p>Some community centers are open. The Copley Square</p>
+                    </div>
+                  </div>
+                  <!-- LCCR Box End --> 
+                  
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <!--city common resources End--> 
+    
+    <!--city common resources Start-->
+    <div class="city-guide-tabs gallery">
+      <div class="container-fluid">
+        <div class="row">
+          <div class="col-md-12"> 
+            <!-- Nav tabs -->
+            <ul class="nav" role="tablist">
+              <li role="presentation" class="active"><a href="#citizens" aria-controls="citizens" role="tab" data-toggle="tab">City Guide For Citizens</a></li>
+              <li role="presentation"><a href="#tourists" aria-controls="tourists" role="tab" data-toggle="tab">City Guide For Tourists</a></li>
+            </ul>
+          </div>
+        </div>
+        <div class="row">
+          <div class="tab-content">
+            <div role="tabpanel" class="tab-pane active" id="citizens">
+              <div class="container-fluid">
+                <div class="row">
+                  <div class="col-md-6 col-sm-6 cgfc-box-1">
+                    <div class="block-content">
+                      <h3> Hotels & Hostels</h3>
+                      <p>Culture to fine food and good times.DiversityThis city is deeply multicultural, with one in three Londoners foreign-born, representing 270 natio suspendisse purus nisi, mattis quis pharetra laoreet..</p>
+                      <div class="play-video"><a href="https://youtu.be/LCw0lD4_m2g" data-rel="prettyPhoto" title="Hotels & Hostels"> <i class="fa fa-play"></i> Watch Video </a> </div>
+                    </div>
+                  </div>
+                  <div class="col-md-6 col-sm-6 cgfc-box-2">
+                    <div class="block-content">
+                      <h3> City Attraction</h3>
+                      <p>Culture to fine food and good times.DiversityThis city is deeply multicultural, with one in three Londoners foreign-born, representing 270 natio suspendisse purus nisi, mattis quis pharetra laoreet..</p>
+                      <div class="play-video"><a href="https://youtu.be/c9yqNodA6nI" data-rel="prettyPhoto" title="City Attraction"> <i class="fa fa-play"></i> Watch Video </a> </div>
+                    </div>
+                  </div>
+                  <div class="col-md-6 col-sm-6 cgfc-box-3">
+                    <div class="block-content">
+                      <h3>Food and Restaurants</h3>
+                      <p>Culture to fine food and good times.DiversityThis city is deeply multicultural, with one in three Londoners foreign-born, representing 270 natio suspendisse purus nisi, mattis quis pharetra laoreet..</p>
+                      <div class="play-video"><a href="https://youtu.be/R-OUVE0ylmI" data-rel="prettyPhoto" title="Food and Restaurants"> <i class="fa fa-play"></i> Watch Video </a> </div>
+                    </div>
+                  </div>
+                  <div class="col-md-6 col-sm-6 cgfc-box-4">
+                    <div class="block-content">
+                      <h3>Night Life Entertainment</h3>
+                      <p>Culture to fine food and good times.DiversityThis city is deeply multicultural, with one in three Londoners foreign-born, representing 270 natio suspendisse purus nisi, mattis quis pharetra laoreet..</p>
+                      <div class="play-video"><a href="https://youtu.be/Nsec4hWZz2M" data-rel="prettyPhoto" title="Night Life Entertainment"> <i class="fa fa-play"></i> Watch Video </a> </div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div role="tabpanel" class="tab-pane" id="tourists">
+              <div class="container-fluid">
+                <div class="row">
+                  <div class="col-md-6 col-sm-6 cgfc-box-3">
+                    <div class="block-content">
+                      <h3>Food and Restaurants</h3>
+                      <p>Culture to fine food and good times.DiversityThis city is deeply multicultural, with one in three Londoners foreign-born, representing 270 natio suspendisse purus nisi, mattis quis pharetra laoreet..</p>
+                      <div class="play-video"><a href="https://youtu.be/R-OUVE0ylmI" data-rel="prettyPhoto" title="Food and Restaurants"> <i class="fa fa-play"></i> Watch Video </a> </div>
+                    </div>
+                  </div>
+                  <div class="col-md-6 col-sm-6 cgfc-box-4">
+                    <div class="block-content">
+                      <h3>Night Life Entertainment</h3>
+                      <p>Culture to fine food and good times.DiversityThis city is deeply multicultural, with one in three Londoners foreign-born, representing 270 natio suspendisse purus nisi, mattis quis pharetra laoreet..</p>
+                      <div class="play-video"><a href="https://youtu.be/R-OUVE0ylmI" data-rel="prettyPhoto" title="Food and Restaurants"> <i class="fa fa-play"></i> Watch Video </a> </div>
+                    </div>
+                  </div>
+                  <div class="col-md-6 col-sm-6 cgfc-box-1">
+                    <div class="block-content">
+                      <h3> Hotels & Hostels</h3>
+                      <p>Culture to fine food and good times.DiversityThis city is deeply multicultural, with one in three Londoners foreign-born, representing 270 natio suspendisse purus nisi, mattis quis pharetra laoreet..</p>
+                      <div class="play-video"><a href="https://youtu.be/R-OUVE0ylmI" data-rel="prettyPhoto" title="Food and Restaurants"> <i class="fa fa-play"></i> Watch Video </a> </div>
+                    </div>
+                  </div>
+                  <div class="col-md-6 col-sm-6 cgfc-box-2">
+                    <div class="block-content">
+                      <h3> City Attraction</h3>
+                      <p>Culture to fine food and good times.DiversityThis city is deeply multicultural, with one in three Londoners foreign-born, representing 270 natio suspendisse purus nisi, mattis quis pharetra laoreet..</p>
+                      <div class="play-video"><a href="https://youtu.be/R-OUVE0ylmI" data-rel="prettyPhoto" title="Food and Restaurants"> <i class="fa fa-play"></i> Watch Video </a> </div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <!--city common resources Start--> 
+    
+    <!--News & Announcements Start-->
+    <div class="news-announcements">
+      <div class="container">
+        <div class="row">
+          <div class="col-md-12">
+            <div class="section-title">
+              <h2>News & Announcements</h2>
+              <a href="#" class="smore">More News</a> </div>
+          </div>
+          <div class="col-md-8">
+            <div class="home-news">
+              <div class="row">
+                <div class="col-md-6 col-sm-6">
+                  <div class="news-block">
+                    <div class="news-thumb"> <img src="images/hn1.jpg" alt="">
+                      <ul class="hnew-meta">
+                        <li>December 23, 2016</li>
+                        <li><i class="fa fa-plus-circle"></i> Share</li>
+                      </ul>
+                    </div>
+                    <div class="news-content">
+                      <h5><a href="#">Newly Summary of ‘80’ targeted  assessments released</a></h5>
+                      <p>Square Sign up for email updates from the City of Boston, including information on big events and upcoming traffic and parking restrictions.</p>
+                      <div class="post-tag"> Annoucement </div>
+                    </div>
+                  </div>
+                </div>
+                <div class="col-md-6 col-sm-6">
+                  <div class="news-block">
+                    <div class="news-thumb"> <img src="images/hn2.jpg" alt="">
+                      <ul class="hnew-meta">
+                        <li>December 23, 2016</li>
+                        <li><i class="fa fa-plus-circle"></i> Share</li>
+                      </ul>
+                    </div>
+                    <div class="news-content">
+                      <h5><a href="#">Newly Summary of ‘80’ targeted  assessments released</a></h5>
+                      <p>Square Sign up for email updates from the City of Boston, including information on big events and upcoming traffic and parking restrictions.</p>
+                      <div class="post-tag"> Annoucement </div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div class="col-md-4">
+            <div class="more-news-block">
+              <h3>Live News</h3>
+              <ul class="news-list">
+                <li>
+                  <h6><a href="#">Find out what’s on in Melbourne with 
+                    all the latest events,restaurants, shops 
+                    and things to do</a></h6>
+                  <span class="time-stamp">30 Minutes Ago</span> </li>
+                <li>
+                  <h6><a href="#">Melbourne with all the latest events, 
+                    restaurants, shops and things to do</a></h6>
+                  <span class="time-stamp">30 Minutes Ago</span> </li>
+                <li>
+                  <h6><a href="#">Find out what’s on in Melbourne with 
+                    all the latest events,restaurants, shops 
+                    and things to do</a></h6>
+                  <span class="time-stamp">30 Minutes Ago</span> </li>
+              </ul>
+              <div class="seemore"><a href="#"> See Live News Wall </a></div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <!--News & Announcements End--> 
+    
+    <!--City Highlights-->
+    <div class="city-highlights">
+      <div class="container">
+        <div class="row">
+          <div class="col-md-12">
+            <div class="section-title">
+              <h2>City Highlights</h2>
+            </div>
+            <p class="tagline">Square Sign up for email updates from the City of Boston, including information on big events and upcoming traffic and parking restrictions.
+              including information on big events and upcoming traffic and parking restrictions.</p>
+          </div>
+          
+          <!--Box Start-->
+          <div class="col-md-3 col-sm-6">
+            <div class="cl-box">
+              <div class="cl-thumb"> <a href="#"><i class="fa fa-link"></i></a> <img src="images/cl1.jpg" alt=""></div>
+              <div class="col-txt">
+                <h6>City Attractions</h6>
+                <a href="#"><i class="fa fa-angle-right"></i></a> </div>
+            </div>
+          </div>
+          <!--Box End--> 
+          
+          <!--Box Start-->
+          <div class="col-md-3 col-sm-6">
+            <div class="cl-box">
+              <div class="cl-thumb"> <a href="#"><i class="fa fa-link"></i></a> <img src="images/cl2.jpg" alt=""></div>
+              <div class="col-txt">
+                <h6>Things to do</h6>
+                <a href="#"><i class="fa fa-angle-right"></i></a> </div>
+            </div>
+          </div>
+          <!--Box End--> 
+          
+          <!--Box Start-->
+          <div class="col-md-3 col-sm-6">
+            <div class="cl-box">
+              <div class="cl-thumb"> <a href="#"><i class="fa fa-link"></i></a> <img src="images/cl3.jpg" alt=""></div>
+              <div class="col-txt">
+                <h6>Business Startups</h6>
+                <a href="#"><i class="fa fa-angle-right"></i></a> </div>
+            </div>
+          </div>
+          <!--Box End--> 
+          
+          <!--Box Start-->
+          <div class="col-md-3 col-sm-6">
+            <div class="cl-box">
+              <div class="cl-thumb"> <a href="#"><i class="fa fa-link"></i></a> <img src="images/cl4.jpg" alt=""></div>
+              <div class="col-txt">
+                <h6>City Maps</h6>
+                <a href="#"><i class="fa fa-angle-right"></i></a> </div>
+            </div>
+          </div>
+          <!--Box End--> 
+          
+        </div>
+      </div>
+    </div>
+    <!--News & Announcements End--> 
+    
+    <!--Events and Festivels Start-->
+    <div class="events-festivals">
+      <div class="container">
+        <div class="row">
+          <div class="col-md-12">
+            <div class="section-title">
+              <h2>Events and Festivels</h2>
+              <a href="#" class="smore">More Events</a> </div>
+          </div>
+          <div class="events-tab">
+            <div class="col-md-11 col-sm-10"> <!-- Tab panes -->
+              <div class="tab-content">
+                <div role="tabpanel" class="tab-pane active" id="event1">
+                  <div class="row">
+                    <div class="col-md-6 col-sm-6">
+                      <div class="event-thumb"> <img src="images/ef1.jpg" alt=""></div>
+                    </div>
+                    <div class="col-md-6 col-sm-6">
+                      <div class="event-txt"> <span class="eloc">Laton New Year</span>
+                        <h3><a href="#">Annual Water Festivel</a></h3>
+                        <p>Sign up for email updates from the City of Boston, including 
+                          information on big events and upcoming traffic and parking 
+                          restrictions.</p>
+                        <span class="edate">April 23-26 2018</span> </div>
+                    </div>
+                  </div>
+                </div>
+                <div role="tabpanel" class="tab-pane" id="event2">
+                  <div class="row">
+                    <div class="col-md-6 col-sm-6">
+                      <div class="event-thumb"> <img src="images/ef2.jpg" alt=""></div>
+                    </div>
+                    <div class="col-md-6 col-sm-6">
+                      <div class="event-txt"> <span class="eloc">Laton New Year</span>
+                        <h3><a href="#">Annual City Race</a></h3>
+                        <p>Sign up for email updates from the City of Boston, including 
+                          information on big events and upcoming traffic and parking 
+                          restrictions.</p>
+                        <span class="edate">April 23-26 2018</span> </div>
+                    </div>
+                  </div>
+                </div>
+                <div role="tabpanel" class="tab-pane" id="event3">
+                  <div class="row">
+                    <div class="col-md-6 col-sm-6">
+                      <div class="event-thumb"> <img src="images/ef3.jpg" alt=""></div>
+                    </div>
+                    <div class="col-md-6 col-sm-6">
+                      <div class="event-txt"> <span class="eloc">Laton New Year</span>
+                        <h3><a href="#">Annual Derby Race</a></h3>
+                        <p>Sign up for email updates from the City of Boston, including 
+                          information on big events and upcoming traffic and parking 
+                          restrictions.</p>
+                        <span class="edate">April 23-26 2018</span> </div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div class="col-md-1 col-sm-2">
+              <ul class="nav" role="tablist">
+                <li role="presentation" class="active"><a href="#event1" aria-controls="event1" role="tab" data-toggle="tab"> MAY <strong>21</strong> </a></li>
+                <li role="presentation"><a href="#event2" aria-controls="event2" role="tab" data-toggle="tab"> JAN <strong>27</strong> </a></li>
+                <li role="presentation"><a href="#event3" aria-controls="event3" role="tab" data-toggle="tab"> MAY <strong>21</strong> </a></li>
+                <li><a href="#events" class="more-tab"> <img src="images/calc.png" alt=""> </a></li>
+              </ul>
+            </div>
+            
+            <!-- Nav tabs --> 
+            
+          </div>
+        </div>
+        <div class="row">
+          <div class="more-events">
+            <div class="col-md-6 col-sm-6">
+              <div class="mre-event-box">
+                <div class="event-date"> <span>MAY <strong>23</strong> </span> <a href="#"><img src="images/calc.png" alt=""></a> </div>
+                <div class="event-txt">
+                  <ul class="event-tags">
+                    <li class="etag1"><a href="#">Cultural</a></li>
+                    <li class="etag2"><a href="#">Free</a></li>
+                  </ul>
+                  <h5><a href="#">Advocate for working people and a proud product</a></h5>
+                  <ul class="mre-footer">
+                    <li>21, May 03:00PM-08:12PM</li>
+                    <li>Botanic Garden</li>
+                  </ul>
+                  <span class="forma"><img src="images/forma.png" alt=""></span> </div>
+              </div>
+            </div>
+            <div class="col-md-6 col-sm-6">
+              <div class="mre-event-box">
+                <div class="event-date"> <span>MAY <strong>23</strong> </span> <a href="#"><img src="images/calc.png" alt=""></a> </div>
+                <div class="event-txt">
+                  <ul class="event-tags">
+                    <li class="etag1"><a href="#">Cultural</a></li>
+                    <li class="etag2"><a href="#">Free</a></li>
+                  </ul>
+                  <h5><a href="#">Advocate for working people and a proud product</a></h5>
+                  <ul class="mre-footer">
+                    <li>21, May 03:00PM-08:12PM</li>
+                    <li>Botanic Garden</li>
+                  </ul>
+                  <span class="forma"><img src="images/forma.png" alt=""></span> </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <!--Events and Festivels End--> 
+    
+    <!--Beautiful Laton Start-->
+    <div class="beautiful-laton">
+      <h4>Beautiful Laton</h4>
+      <div id="bs-carousel" class="owl-carousel owl-theme">
+        <div class="item">
+          <div class="bl-caption">
+            <h6>City the Beautiful View</h6>
+            <strong>by Rick Wilson</strong>
+            <p>It uses a dictionary of over 200 Latin words, combined with a handful of model sentence structures.</p>
+          </div>
+          <img src="images/bs-icon1.jpg" alt=""> </div>
+        <div class="item">
+          <div class="bl-caption">
+            <h6>City the Beautiful View</h6>
+            <strong>by Rick Wilson</strong>
+            <p>It uses a dictionary of over 200 Latin words, combined with a handful of model sentence structures.</p>
+          </div>
+          <img src="images/bs-icon2.jpg" alt=""> </div>
+        <div class="item">
+          <div class="bl-caption">
+            <h6>City the Beautiful View</h6>
+            <strong>by Rick Wilson</strong>
+            <p>It uses a dictionary of over 200 Latin words, combined with a handful of model sentence structures.</p>
+          </div>
+          <img src="images/bs-icon3.jpg" alt=""> </div>
+        <div class="item">
+          <div class="bl-caption">
+            <h6>City the Beautiful View</h6>
+            <strong>by Rick Wilson</strong>
+            <p>It uses a dictionary of over 200 Latin words, combined with a handful of model sentence structures.</p>
+          </div>
+          <img src="images/bs-icon4.jpg" alt=""> </div>
+        <div class="item">
+          <div class="bl-caption">
+            <h6>City the Beautiful View</h6>
+            <strong>by Rick Wilson</strong>
+            <p>It uses a dictionary of over 200 Latin words, combined with a handful of model sentence structures.</p>
+          </div>
+          <img src="images/bs-icon5.jpg" alt=""> </div>
+        <div class="item">
+          <div class="bl-caption">
+            <h6>City the Beautiful View</h6>
+            <strong>by Rick Wilson</strong>
+            <p>It uses a dictionary of over 200 Latin words, combined with a handful of model sentence structures.</p>
+          </div>
+          <img src="images/bs-icon6.jpg" alt=""> </div>
+        <div class="item">
+          <div class="bl-caption">
+            <h6>City the Beautiful View</h6>
+            <strong>by Rick Wilson</strong>
+            <p>It uses a dictionary of over 200 Latin words, combined with a handful of model sentence structures.</p>
+          </div>
+          <img src="images/bs-icon7.jpg" alt=""> </div>
+        <div class="item">
+          <div class="bl-caption">
+            <h6>City the Beautiful View</h6>
+            <strong>by Rick Wilson</strong>
+            <p>It uses a dictionary of over 200 Latin words, combined with a handful of model sentence structures.</p>
+          </div>
+          <img src="images/bs-icon8.jpg" alt=""> </div>
+      </div>
+    </div>
+    <!--Beautiful Laton End--> 
+    
+    <!--Online Services Request Start-->
+    <div class="online-services-form">
+      <div class="container">
+        <div class="title">
+          <h2>Online Services and REQUESTS</h2>
+          <p>Square Sign up for email updates from the City of Boston, including information </p>
+        </div>
+        <div class="row">
+          <div class="col-md-4">
+            <div class="dropdown">
+              <button type="button" id="dropdownMenu1" data-toggle="dropdown" aria-haspopup="true" aria-expanded="true"> <i class="fa fa-pencil-square-o"></i> Make a Complaint <span><img src="images/ar.png" alt=""></span> </button>
+              <ul class="dropdown-menu">
+                <li><a href="#">Make a Complaint</a></li>
+                <li><a href="#">Make a Complaint</a></li>
+                <li><a href="#">Make a Complaint</a></li>
+              </ul>
+            </div>
+          </div>
+          <div class="col-md-4">
+            <div class="dropdown">
+              <button type="button" id="dropdownMenu2" data-toggle="dropdown" aria-haspopup="true" aria-expanded="true"> <i class="fa fa-briefcase"></i> City Departments <span><img src="images/ar.png" alt=""></span> </button>
+              <ul class="dropdown-menu">
+                <li><a href="#">City Departments</a></li>
+                <li><a href="#">City Departments</a></li>
+                <li><a href="#">City Departments</a></li>
+              </ul>
+            </div>
+          </div>
+          <div class="col-md-4">
+            <div class="dropdown">
+              <button type="button" id="dropdownMenu3" data-toggle="dropdown" aria-haspopup="true" aria-expanded="true" > <i class="fa fa-gg"></i> Make a Payment <span><img src="images/ar.png" alt=""></span> </button>
+              <ul class="dropdown-menu">
+                <li><a href="#">Make a Payment</a></li>
+                <li><a href="#">Make a Payment</a></li>
+                <li><a href="#">Make a Payment</a></li>
+              </ul>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <!--Online Services Request End--> 
+    
+    <!--City Team Start-->
+    <div class="city-team">
+      <div class="container">
+        <div class="row">
+          <div class="col-md-4 col-sm-4">
+            <h2><span>Mayor CITY</span></h2>
+            <div class="team-box">
+              <div class="thumb">
+                <div class="team-hover">
+                  <h6>Michelle WU</h6>
+                  <p>Aliquam nec finibus dui, eget dapibus leo. Suspendisse aliquam, justo in venenatis congue, sem odio vestibulum lorem, quis consectetur arcu nulla in est. </p>
+                  <div class="mayor-social"> <a class="fb" href="#"><i class="fa fa-facebook"></i></a> <a class="tw" href="#"><i class="fa fa-twitter"></i></a> <a class="lin" href="#"><i class="fa fa-linkedin"></i></a> <a class="yt" href="#"><i class="fa fa-youtube"></i></a> </div>
+                </div>
+                <img src="images/city-maryor.jpg" alt=""></div>
+              <div class="team-txt">
+                <h5>Michelle WU</h5>
+                <p>Melissa Mark-Viverito, Speaker</p>
+              </div>
+            </div>
+          </div>
+          <div class="col-md-8 col-sm-8">
+            <h2><span>Your Elected Officials</span></h2>
+            <div class="row">
+              <div class="col-md-6">
+                <div class="other-team-box">
+                  <div class="team-thumb"><img src="images/team1.jpg" alt=""></div>
+                  <div class="team-txt">
+                    <h5><a href="#">Scott  Stringer</a></h5>
+                    <p>Elected Official</p>
+                    <div class="team-social"> <a class="fb" href="#"><i class="fa fa-facebook"></i></a> <a class="tw" href="#"><i class="fa fa-twitter"></i></a> <a class="lin" href="#"><i class="fa fa-linkedin"></i></a></div>
+                  </div>
+                </div>
+              </div>
+              <div class="col-md-6">
+                <div class="other-team-box">
+                  <div class="team-thumb"><img src="images/team2.jpg" alt=""></div>
+                  <div class="team-txt">
+                    <h5><a href="#">Michelle Wu</a></h5>
+                    <p>Melissa Mark-Viverito,  Speaker</p>
+                    <div class="team-social"> <a class="fb" href="#"><i class="fa fa-facebook"></i></a> <a class="tw" href="#"><i class="fa fa-twitter"></i></a> <a class="lin" href="#"><i class="fa fa-linkedin"></i></a></div>
+                  </div>
+                </div>
+              </div>
+              <div class="col-md-6">
+                <div class="other-team-box">
+                  <div class="team-thumb"><img src="images/team3.jpg" alt=""></div>
+                  <div class="team-txt">
+                    <h5><a href="#">Salvatore
+                      Lamatina</a></h5>
+                    <p>Elected Official</p>
+                    <div class="team-social"> <a class="fb" href="#"><i class="fa fa-facebook"></i></a> <a class="tw" href="#"><i class="fa fa-twitter"></i></a> <a class="lin" href="#"><i class="fa fa-linkedin"></i></a></div>
+                  </div>
+                </div>
+              </div>
+              <div class="col-md-6">
+                <div class="other-team-box">
+                  <div class="team-thumb"><img src="images/team4.jpg" alt=""></div>
+                  <div class="team-txt">
+                    <h5><a href="#">Andrea
+                      Campbeli</a></h5>
+                    <p>Melissa Mark-Viverito, Speaker </p>
+                    <div class="team-social"> <a class="fb" href="#"><i class="fa fa-facebook"></i></a> <a class="tw" href="#"><i class="fa fa-twitter"></i></a> <a class="lin" href="#"><i class="fa fa-linkedin"></i></a></div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <!--City Team End--> 
+    
+    <!--Sponsors and Promotions Start-->
+    <div class="sponsors">
+      <div class="container">
+        <div class="row">
+          <h4>Sponsors and Promotions</h4>
+        </div>
+        <div class="row">
+          <div class="col-md-2 col-sm-2">
+            <div class="cp-logo"><img src="images/sp-logo1.png" alt=""></div>
+          </div>
+          <div class="col-md-2 col-sm-2">
+            <div class="cp-logo"><img src="images/sp-logo2.png" alt=""></div>
+          </div>
+          <div class="col-md-2 col-sm-2">
+            <div class="cp-logo"><img src="images/sp-logo3.png" alt=""></div>
+          </div> 
+          <div class="col-md-2 col-sm-2">
+            <div class="cp-logo"><img src="images/sp-logo4.png" alt=""></div>
+          </div>
+          <div class="col-md-2 col-sm-2">
+            <div class="cp-logo"><img src="images/sp-logo5.png" alt=""></div>
+          </div>
+          <div class="col-md-2 col-sm-2">
+            <div class="cp-logo"><img src="images/sp-logo6.png" alt=""></div>
+          </div>
+        </div>
+      </div>
+    </div>
+    
+    <!--Sponsors and Promotions End-->
+    <div class="visit-city">
+      <div class="container"> <img src="images/visit-laton.png" alt="">
+        <p> Spectacular landscapes are just minutes from town.<br>
+          Have fun in our sensational outdoor playground. </p>
+        <a href="#">Download Brochure</a> </div>
+    </div>
+  </div>
+  <!--Home Content Start--> 
+  
+  <!--Footer Start-->
+  <footer class="footer">
+    <div class="container">
+      <div class="row">
+        <div class="col-md-3">
+          <div class="widget"> <img src="images/light-logo.png" alt=""> </div>
+        </div>
+        <div class="col-md-3">
+          <div class="widget textwidget">
+            <h6>Support the NewYork</h6>
+            <p>Each gift matters. Become a beacon for art education and talent.
+              love for the city , love for the people </p>
+          </div>
+        </div>
+        <div class="col-md-3">
+          <div class="widget">
+            <div class="widget textwidget">
+              <h6>Contact Info</h6>
+              <p> 1-877-783-1608<br>
+                info@lintona.co.wo </p>
+            </div>
+          </div>
+        </div>
+        <div class="col-md-3">
+          <div class="widget">
+            <div class="widget textwidget">
+              <h6>Follow Us</h6>
+              <ul class="footer-social">
+                <li> <a href="#"><i class="fa fa-facebook-square"></i></a> </li>
+                <li> <a href="#"><i class="fa fa-twitter-square"></i></a> </li>
+                <li> <a href="#"><i class="fa fa-youtube-square"></i></a> </li>
+                <li> <a href="#"><i class="fa fa-google-plus-square"></i></a> </li>
+                <li> <a href="#"><i class="fa fa-pinterest-square"></i></a> </li>
+                <li> <a href="#"><i class="fa fa-vimeo-square"></i></a> </li>
+              </ul>
+              <strong class="skype-id">#quebecregion</strong> </div>
+          </div>
+        </div>
+      </div>
+      <div class="row">
+        <div class="col-md-12 copyr">
+          <p>Copyright © 1997 - 2018 Lintona City All rights reserved. Privacy Policy   Terms & Conditions   Site Credits</p>
+        </div>
+      </div>
+    </div>
+  </footer>
+  
+  <!--Footer End--> 
+  
+</div>
+<!-- JS Files Start --> 
+<script src="js/jquery.min.js"></script> 
+<script  src="js/jquery-migrate-1.2.1.min.js"></script> 
+<script src="js/bootstrap.min.js"></script> 
+<script src="js/owl.carousel.min.js"></script> 
+<script src="js/jquery.prettyPhoto.js"></script> 
+<script src="js/flat-weather.js"></script> 
+<script src="js/custom.js"></script>
+</body>
+</html>

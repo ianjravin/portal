@@ -1,0 +1,987 @@
+@charset "utf-8";
+/* CSS Document */
+
+@media (min-width: 200px) and (max-width: 767px) {
+.wrapper .container {
+	width: 100%;
+}
+.visit-city p {
+	font-size: 18px;
+	line-height: 24px;
+}
+.widget .widget {
+	margin: 0px;
+}
+.header {
+	height: auto;
+}
+.logo {
+	width: 100%;
+}
+span.logo-icon {
+	margin: 0px;
+}
+span.logo-icon img {
+	width: 50px;
+	height: auto;
+}
+span.logo-txt {
+	top: 0px;
+}
+.home-welcome p {
+	margin-top: 20px;
+}
+span.logo-txt img {
+	max-width: 100%;
+	height: auto;
+}
+.site-nav {
+	background: #ccc;
+	padding: 10px;
+	width: 100%;
+}
+.site-nav .navbar {
+	min-height: inherit;
+	margin: 0px;
+	border: 0px;
+}
+.site-nav .navbar-toggle {
+	padding: 0px;
+	margin: 0px;
+	font-size: 24px;
+	background: #d33030;
+	color: #fff;
+	padding: 5px 9px;
+}
+.site-nav .nav>li {
+	display: inline-block;
+	width: 100%;
+	text-align: left;
+}
+.sub-menu {
+	position: static;
+}
+.sub-menu .sub-menu {
+	position: static;
+	left: 0;
+	background: #f1f1f1;
+}
+.home-welcome img {
+	margin-left: 0;
+	max-width: 100%;
+	height: auto;
+}
+.nl-wrap {
+	padding: 15px;
+}
+.block-content {
+	padding: 70px 15px;
+}
+.home-news {
+	margin-bottom: 20px;
+}
+.city-highlights {
+	background: #f1f1f1;
+}
+a.smore {
+	display: none;
+}
+.events-tab .col-md-11 {
+	padding-right: 15px;
+}
+.events-tab .col-md-1 {
+	padding-left: 15px;
+}
+.events-tab .event-txt {
+	padding: 15px;
+	width: 100%;
+}
+.event-date {
+	margin-right: 10px;
+}
+.event-txt {
+	width: 72%;
+	padding: 5px;
+}
+.mre-event-box {
+	margin-bottom: 20px;
+}
+.nl-wrap .form-control {
+	margin-bottom: 15px;
+}
+.city-guide-tabs .nav>li a {
+	font-size: 11px;
+}
+.block-content h3 {
+	font-size: 18px;
+}
+.beautiful-laton .owl-theme .owl-nav {
+	width: 95%;
+}
+.city-team h2:after {
+	width: 20%;
+}
+.team-box {
+	margin-bottom: 20px;
+}
+.team-thumb {
+	width: 40%;
+	overflow: hidden;
+}
+.team-thumb img {
+	width: 100%;
+	height: auto;
+}
+.other-team-box .team-txt {
+	height: auto;
+}
+.team-social {
+	position: inherit;
+	left: inherit;
+	bottom: inherit;
+}
+.sponsors h4 {
+	padding: 0 20px;
+	font-size: 14px;
+}
+.other-team-box .team-txt {
+	width: 60%;
+	padding: 10px;
+}
+span.forma, .alerts, .side-icon, .header-right, .slide-caption, .main-banner div#sync2 {
+	display: none;
+}
+.city-guide-tabs .nav {
+	width: 100%;
+}
+.h-services-one {
+	margin: 20px 0 0 0;
+}
+.h-ser-box {
+	margin-bottom: 20px;
+}
+.section-title {
+	background: none;
+}
+.section-title h2 {
+	font-size: 24px;
+	background: none;
+}
+.cl-box {
+	margin-bottom: 20px;
+}
+.cl-thumb img {
+	width: 100%;
+	float: left;
+}
+/*************  Home 2  ****************/
+
+.wrapper.boxed {
+	width: 100%;
+	overflow: hidden;
+	box-shadow: none;
+	;
+}
+.ht-contact, .btn-alert, .sidebaricon, .navrow .h-weather, .header-search {
+	display: none;
+}
+body .rev_slider_wrapper h1 {
+	font-size: 14px !important;
+	line-height: 24px !important;
+	margin-bottom: 20px !important;
+}
+.rev_slider_wrapper p {
+	font-size: 10px !important;
+	line-height: 24px !important;
+	display: none !important;
+}
+.navrow .navbar-toggle {
+	background: #fff;
+}
+.navbar-toggle .icon-bar {
+	background: red;
+}
+.navrow .navbar-nav {
+	margin: 0px;
+}
+.navrow .navbar-nav>li>a {
+	line-height: 40px;
+}
+.mayer-message {
+	background-size: cover;
+	margin-bottom: 20px;
+}
+.pop-vid-box .vthumb img {
+	width: 100%;
+	height: auto;
+}
+.h2-welcome .container {
+	margin: 0px;
+}
+.h2-departments {
+	width: 100%;
+	float: left;
+}
+.h2-news-block, .pop-vid-box, .featured-news-block, ul.tabnav {
+	margin-bottom: 20px;
+}
+.social-service img {
+	max-width: 100%;
+	height: auto;
+}
+.h2-event-box .event-caption, .featured-news-block {
+	padding: 20px;
+}
+.h2-event-box .event-caption .etag {
+	margin: 10px 0;
+}
+.contact-tabs, .contact-tabs .address-box, .contact-tabs .address-map {
+	width: 100%;
+}
+.social-profiles ul > li {
+	width: 50%;
+	padding: 10px;
+}
+.home2-footer ul.footer-nav {
+	margin: 20px 0;
+}
+.home2-footer ul.footer-nav li {
+	margin: 0px;
+	width: 100%;
+	text-align: left;
+}
+.home2-footer .copyr {
+	text-align: left;
+}
+.mayer-departments {
+	padding-bottom: 20px;
+}
+h2.h2-title:before {
+	left: 15px;
+}
+h2.h2-title {
+	padding-left: 75px;
+}
+.h2-contacts {
+	background-color: #131e36;
+}
+.contact-tabs .address-box {
+	height: auto;
+	padding: 15px 20px;
+}
+.contact-tabs .address-box span.info {
+	width: 80%;
+}
+.contact-tabs .address-box .fa {
+	text-align: center;
+}
+/****************  Inner Pages Start  *******************/
+
+.sub-header {
+	padding: 30px 0;
+}
+.fp-admin, ul.hnew-meta, .sort-btn {
+	display: none;
+}
+.fp-title {
+	bottom: 0px;
+	padding: 15px;
+}
+.fp-title h3 {
+	border-bottom: 0;
+	padding-bottom: 0;
+	font-size: 14px;
+}
+.post-listing .post-thumb {
+	width: 100%;
+	margin: 0 0 10px;
+}
+.post-listing .post-txt {
+	width: 100%;
+}
+.post-txt ul.post-meta li:last-child {
+	display: none;
+}
+ul.post-meta li:after {
+	padding: 0 5px;
+}
+.blog-listing-footer a.pull-right, .blog-listing-footer a.pull-left {
+	display: none;
+}
+.blog-listing-footer {
+	padding: 10px;
+}
+.wrapper .pagination>li {
+	padding: 0px;
+	margin: 0px;
+}
+.sub-header h1 {
+	font-size: 20px;
+}
+.blog-details {
+	padding: 0px 0 30px;
+}
+.blog-details-text {
+	padding: 0 10px;
+}
+.blog-testimonial {
+	padding: 50px 20px;
+}
+.listpoints h6 {
+	font-size: 12px;
+}
+.share-social a {
+	margin: 0 2px;
+}
+.post-share .share-social {
+	padding: 15px 0;
+}
+.related-articles {
+	padding: 0 10px;
+}
+.post-comments h2, .related-articles h2 {
+	font-size: 20px;
+}
+.post-comments {
+	padding: 15px;
+}
+.user-comments {
+	float: left;
+	width: 80%;
+	padding-left: 10px;
+}
+.child-comments {
+	margin: 10px 0;
+	padding: 10px;
+}
+ul.rep-comments {
+	width: 100%;
+	margin: 10px 0;
+	padding: 10px;
+}
+.listpoints ol {
+	padding: 0 20px;
+}
+.blog-post .post-title h5 {
+	margin: 0px;
+}
+.blog .blog-post .post-text {
+	padding: 15px;
+}
+.blog-grid .post-thumb {
+	min-height: inherit;
+	max-height: inherit;
+}
+.causes-details .causes-post.style-2 ul.cause-footer, .blog-post.blog-list .post-text, .blog-post.blog-list .post-thumb {
+	width: 100%;
+}
+.widget.text-widget img {
+	width: 100%;
+	height: auto;
+}
+ul.forum-head li {
+	float: left;
+	font-size: 16px;
+	font-weight: 700;
+	padding: 10px 0;
+	box-sizing: border-box;
+}
+ul.forum-post li {
+	padding: 10px 0;
+}
+.f-title {
+	width: 100%;
+}
+.f-creater {
+	width: 100%;
+}
+.f-topic {
+	width: 50px;
+}
+.f-post {
+	width: 50px;
+}
+ul.forum-post li.f-topic, ul.forum-post li.f-post {
+	padding: 0 5px;
+}
+.post-listing {
+	padding: 10px;
+}
+.fnews-txt {
+	width: 100%;
+}
+.featured-news ul.post-meta {
+	display: none;
+}
+.press-box .press-txt, .news-box .news-txt {
+	width: 100%;
+	padding: 0px;
+}
+.press-box .press-thumb {
+	margin-bottom: 10px;
+}
+.marker {
+	width: 80%;
+}
+.contact-page {
+	margin: 20px 0 0;
+}
+.address-block {
+	padding: 15px;
+	margin: 20px 0;
+}
+.dnews-thumb, .dnews-txt, .contact-form-box {
+	width: 100%;
+}
+.contact-txt {
+	padding: 15px;
+	background: none;
+}
+.contact-txt .col-xs-offset-5 {
+	margin: 0px;
+}
+.dprt-content {
+	padding: 0px;
+}
+.dprt-header {
+	padding: 20px 10px;
+	margin-bottom: 10px;
+}
+.dprt-header h1 {
+	font-size: 20px;
+}
+ul.report-issue.row {
+	margin: 0px;
+}
+.dprt-icon {
+	display: none;
+}
+ul.report-issue a {
+	margin: 10px 0;
+}
+.dnews-txt {
+	margin: 0px;
+	padding: 10px 0;
+}
+ul.post-meta li {
+	margin-right: 5px;
+}
+.dprt-widget {
+	padding: 15px;
+}
+.featured-img .event-counter.is-countdown {
+	margin-bottom: 15px;
+	position: relative;
+	right: inherit;
+	bottom: inherit;
+	width: inherit;
+}
+.featured-img .countdown-section, .event-text .countdown-section {
+	width: 60px;
+}
+.event-text {
+	padding: 15px 10px;
+}
+.event-list .post-thumb, .event-list .event-text {
+	width: 100%;
+}
+.event-listing .mre-event-box .is-countdown {
+	position: inherit;
+	right: inherit;
+	bottom: inherit;
+	width: 100%;
+	background: none;
+	border: 0;
+	text-align: center;
+	padding: 15px;
+}
+.gall-thumb img {
+	width: 100%;
+	height: auto;
+}
+.filter-gallery .isotope .item, .filter-gallery .isotope .item.height2 {
+	width: 100%;
+	height: auto;
+}
+.jdetails {
+	margin: 0px;
+	padding: 10px;
+}
+ul.small-points li {
+	width: 50%;
+}
+.jdetails .cl {
+	position: relative;
+	right: inherit;
+	top: inherit;
+	margin-bottom: 20px;
+}
+a.apply, a.swf {
+	width: 100%;
+	margin: 10px 0;
+}
+.job-box li.jlogo {
+	width: 100%;
+	margin-bottom: 20px;
+}
+.job-box li.job-des, .job-box li.job-address {
+	width: 100%;
+}
+.location-details .white-bg {
+	margin: 0px;
+	width: 100%;
+}
+.loc-info a.con, .loc-logo {
+	margin: 0 0 10px;
+}
+.related-locations .section-title h2 {
+	text-align: center;
+}
+.loc-box {
+	margin-bottom: 30px;
+}
+.city-map-locations {
+	width: 180px;
+	display: none;
+}
+.city-map-locations a {
+	padding: 5px;
+}
+.city-map-locations h4 {
+	font-size: 14px;
+}
+.govt-departments .owl-prev {
+	left: 0px;
+}
+.govt-departments .owl-next {
+	right: 0px;
+}
+.govt-departments .owl-theme .owl-nav {
+	top: 20%;
+}
+.sub-header .oquote {
+	display: none;
+}
+div#sidebar {
+	position: inherit;
+	margin: 0px !important;
+}
+ul.about-contact li {
+	margin: 5px 0;
+}
+li.e-year:after, .sub-header.sports .fl-breadcrumps, li.e-exp:before, li.e-exp:after {
+	display: none;
+}
+.officials-content {
+	padding: 20px;
+}
+.review .review-content, li.e-exp, li.e-year {
+	width: 100%;
+}
+.sports-content {
+	margin: 20px 0 0;
+}
+ul.today-match li {
+	padding: 10px 5px;
+}
+ul.today-match li img {
+	max-width: 100%;
+	height: auto;
+}
+ul.today-match li strong {
+	font-size: 12px;
+	display: block;
+}
+ul.today-match li.tm-info {
+	padding: 20px 0;
+}
+.team-box .thumb img {
+	width: 100%;
+}
+.home-welcome {
+	background: #0a2c55;
+}
+}
+ @media (min-width: 768px) and (max-width: 991px) {
+.wrapper .container {
+	width: 100%;
+}
+.header {
+	height: auto;
+}
+.site-nav .nav {
+	text-align: center;
+}
+.alerts, .header-right {
+	display: none;
+}
+.site-nav {
+	width: 100%;
+	padding: 10px 0 0;
+}
+.site-nav .navbar {
+	position: relative;
+	margin-bottom: 0;
+	border: 0px solid transparent;
+}
+.navrow .nav>li:nth-last-child(2) .sub-menu, .navrow .nav>li:last-child .sub-menu, .site-nav .nav>li:nth-last-child(2) .sub-menu, .site-nav .nav>li:last-child .sub-menu {
+	left: inherit;
+	right: 0;
+}
+.navrow .nav>li:nth-last-child(2) .sub-menu .sub-menu, .site-nav .nav>li:nth-last-child(2) .sub-menu .sub-menu {
+	left: inherit;
+	right: 100%;
+}
+.main-banner div#sync2 {
+	width: 100%;
+}
+.main-banner div#sync2 .owl-item .item {
+	padding: 5px;
+	font-size: 12px;
+	line-height: 16px;
+}
+.home-welcome {
+	padding: 60px 0;
+}
+.block-content h3 {
+	font-size: 20px;
+}
+.home-welcome img {
+	display: none;
+}
+.home-welcome h3 {
+	margin: 0px;
+}
+.slide-caption {
+	position: absolute;
+	top: 20px;
+	z-index: 99;
+	margin-left: 100px;
+}
+.slide-caption h1 {
+	font-size: 24px;
+}
+.home-welcome img {
+	margin: 0;
+}
+.h-services-one {
+	margin: 20px 0;
+}
+.cl-box, .home-news, .h-ser-box {
+	margin-bottom: 20px;
+}
+.city-guide-tabs .nav {
+	width: 60%;
+}
+.cl-thumb img {
+	width: 100%;
+}
+.events-tab .event-txt {
+	padding: 24px 25px 23px;
+	width: 100%;
+}
+.events-tab {
+	background: #104382;
+}
+.block-content {
+	padding: 11%;
+}
+.event-date {
+	margin-right: 10px;
+}
+.event-txt {
+	width: 75%;
+	float: left;
+	padding: 10px;
+}
+.beautiful-laton .owl-theme .owl-nav {
+	display: block !important;
+	width: 60%;
+}
+.city-team h2:after {
+	display: none;
+}
+.cp-logo img {
+	max-width: 100%;
+	height: auto;
+}
+.press-box .press-txt {
+	width: 83%;
+}
+.dpt-phone {
+	margin-bottom: 20px;
+}
+.rn-txt {
+	width: 70%;
+	float: left;
+	padding-left: 10px;
+}
+.blog-grid .post-thumb {
+	min-height: inherit;
+}
+.blog-listing-footer a.pull-right, .blog-listing-footer a.pull-left {
+	display: none;
+}
+.causes-details .causes-post.style-2 ul.cause-footer {
+	width: 70%;
+}
+.child-comments {
+	margin: 10px 0;
+}
+.user-comments {
+	float: left;
+	width: 78%;
+	padding-left: 20px;
+}
+.marker {
+	width: 50%;
+}
+.contact-page {
+	margin: 0px;
+}
+.address-block {
+	margin: 20px 0;
+}
+.contact-txt {
+	background: none;
+}
+span.forma, .dprt-icon {
+	display: none;
+}
+.dprt-content {
+	width: 100%;
+	float: left;
+}
+.post-share .share-social {
+	margin-bottom: 20px;
+}
+.featured-img .countdown-section, .event-text .countdown-section {
+	width: 60px;
+}
+.event-list .event-text, .event-list .post-thumb {
+	width: 100%;
+}
+.event-listing .mre-event-box .is-countdown {
+	position: inherit;
+	right: inherit;
+	bottom: inherit;
+	width: 100%;
+	background: none;
+	border: 0;
+	text-align: center;
+	padding: 20px 0px 0 20px;
+}
+.gall-thumb img {
+	width: 100%;
+	height: auto;
+}
+.gl-thumb .caption h4, .gall-thumb .caption h4 {
+	font-size: 14px;
+}
+div#filters {
+	margin-bottom: 20px;
+	width: 100%;
+}
+.filter-gallery .isotope .item {
+	width: 50%;
+	height: auto;
+}
+.filter-gallery .isotope .width2 {
+	width: 50%
+}
+.filter-gallery .isotope .item.height2 {
+	height: auto
+}
+.btn-alert, .ht-contact, .navrow .h-weather, .sidebaricon, .header-search {
+	display: none;
+}
+.h2-departments {
+	width: 100%;
+	float: left;
+}
+.wrapper.boxed {
+	width: 100%;
+}
+.mayer-message {
+	background: #0c2745;
+	margin-bottom: 20px;
+}
+.dprt-box {
+	padding: 20px;
+}
+.pop-vid-box, .featured-news-block, .h2-news-block, ul.tabnav {
+	margin-bottom: 20px;
+}
+body.home-style-two h4 {
+	font-size: 14px;
+}
+.team-box .thumb img, .loc-gallery img, .pop-vid-box .vthumb img {
+	width: 100%;
+	height: auto;
+}
+.loc-box, .job-box li.jlogo {
+	margin-bottom: 20px;
+}
+.news-box .news-txt, .job-box li.job-address, .job-box li.job-des {
+	width: 100%;
+}
+.share-footer a {
+	font-size: 10px;
+}
+.featured-news ul.post-meta {
+	display: none;
+}
+.post-listing .press-box .press-txt {
+	width: 74%;
+}
+.review .review-content {
+	width: 80%;
+}
+
+.contact-txt {background:#fff;}
+.contact-txt .col-md-7.col-xs-offset-5 {
+    padding: 0 30px 0 55px !important;
+    width: 100%;
+    margin: 0px;
+}
+
+}
+ @media (min-width: 992px) and (max-width: 1280px) {
+.wrapper .container {
+	width: 100%;
+}
+
+.contact-txt {background:#fff;}
+.contact-txt .col-md-7.col-xs-offset-5 {
+    padding: 0 30px 0 55px !important;
+    width: 100%;
+    margin: 0px;
+}
+
+.header {
+	height: auto;
+}
+.site-nav {
+	float: left;
+	padding: 0;
+	width: 100%;
+	text-align: center;
+	background: #f1f1f1;
+}
+.site-nav .navbar {
+	margin: 0px;
+	min-height: inherit;
+}
+.site-nav .nav {
+	text-align: left;
+}
+.slide-caption {
+	position: absolute;
+	top: 10%;
+	z-index: 99;
+	margin-left: 100px;
+}
+.main-banner div#sync2 {
+	width: 95%;
+}
+.dpt-phone {
+	padding: 10px;
+}
+.beautiful-laton .owl-theme .owl-nav, .city-guide-tabs .nav {
+	width: 35%;
+}
+.block-content {
+	padding: 50px 10%;
+}
+.alerts, .header-right {
+	display: none;
+}
+.events-tab {
+	background: #104382;
+}
+.mre-event-box .event-txt {
+	width: 79%;
+}
+.team-thumb img {
+	width: 100%;
+	height: auto;
+}
+.department-box, .loc-content {
+	padding: 10px;
+}
+.rn-txt {
+	width: 70%;
+	float: left;
+	padding-left: 20px;
+}
+.event-listing .mre-event-box .is-countdown {
+	bottom: 0px;
+}
+.featured-img .countdown-section, .event-text .countdown-section {
+	width: 55px;
+}
+.featured-news ul.post-meta {
+	display: none;
+}
+.fnews-txt {
+	width: 70%;
+}
+.post-listing .press-box .press-txt {
+	width: 80%;
+}
+.side-links li a {
+	padding-left: 15px;
+}
+.review .review-content {
+	width: 84%;
+}
+li.e-year:after {
+	right: 8px;
+}
+li.e-exp:after {
+	left: -13px;
+}
+div#filters {
+	width: 100%;
+}
+.address-block {
+	padding: 25px;
+}
+.marker {
+	width: 50%;
+}
+.address-block address span.info {
+	width: 82%;
+}
+.wrapper.boxed {
+	width: 100%;
+}
+.dprt-box {
+	padding: 20px;
+}
+.mayer-message {
+	padding: 50px 10px 25px;
+}
+ul.news-meta li a {
+	padding: 0 5px;
+}
+.h2-event-box .event-caption, .ntxt {
+	padding: 10px;
+}
+.social-service img {
+	width: 100%;
+	height: auto;
+}
+.featured-news-block ul.news-meta li {
+	margin-right: 5px;
+}
+
+.contact-txt {background:#fff;}
+.contact-txt .col-md-7.col-xs-offset-5 { padding:0 30px; width:100%; margin:0px;}
+
+}
+ @media (max-width: 1680px) {
+.wrapper.boxed {
+	width: 100%;
+}
+}
